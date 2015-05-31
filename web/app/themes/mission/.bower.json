@@ -1,0 +1,12 @@
+{
+  "name": "mission",
+  "_release": "8dcc237b4d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "8dcc237b4d19ab083f4068b411560dcdecbaaeff"
+  },
+  "_source": "git@bitbucket.org:shawnsandy/mission.git",
+  "_target": "*",
+  "_originalSource": "git@bitbucket.org:shawnsandy/mission.git"
+}

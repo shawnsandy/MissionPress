@@ -1,0 +1,28 @@
+{
+  "name": "presskit",
+  "version": "0.0.0",
+  "description": "A wordpress theme starter kit",
+  "main": "ng-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ManagedPixels/presskit.git"
+  },
+  "keywords": [
+    "Wordpress",
+    "Themes",
+    "Timber"
+  ],
+  "author": "Shawn Sandy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ManagedPixels/presskit/issues"
+  },
+  "homepage": "https://github.com/ManagedPixels/presskit",
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "require-dir": "^0.1.0"
+  }
+}

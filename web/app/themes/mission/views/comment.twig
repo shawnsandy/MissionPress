@@ -1,0 +1,12 @@
+<div class="blog-comment {{comment.comment_type}}" id="blog-comment-{{comment.ID}}">
+    <div class="row">
+        <div class="col-md-2">
+            <h5 class="comment-author">{{comment.author.name}} says</h5> 
+        </div>
+        <div class="col-md-10">
+            <div class="comment-content">{{comment.comment_content|wpautop}}</div>
+        </div>
+
+    </div>
+
+</div>

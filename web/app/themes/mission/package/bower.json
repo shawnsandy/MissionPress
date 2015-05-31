@@ -1,0 +1,37 @@
+{
+  "name": "pwc",
+  "version": "0.0.1",
+  "description": "Panwar Wordpress Theme",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "theme",
+    "wordpress"
+  ],
+  "authors": [
+    "shawnsandy04@gmail.com"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "lesshat": "~3.0.2"
+  },
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.1",
+    "core-icon": "Polymer/core-icon#~0.5.1",
+    "core-icons": "Polymer/core-icons#~0.5.1",
+    "core-iconset": "Polymer/core-iconset#~0.5.2",
+    "core-iconset-svg": "Polymer/core-iconset-svg#~0.5.2",
+    "Titan-Framework": "git://github.com/gambitph/Titan-Framework#~1.7.4"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "themes",
+  "version": "0.0.0",
+  "homepage": "https://github.com/CTSATLAS/wordpress",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "Wordpress",
+    "themes"
+  ],
+  "authors": [
+    "shawnsandy"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "mission": "git@bitbucket.org:shawnsandy/mission.git"
+  }
+}
